@@ -1,0 +1,39 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
+.navbar {
+  background: linear-gradient(to right, #ffffff 27%, #66ffff 90%);
+}
+
+.quemsomos {
+  background-color: #66ffff;
+  height: 50%;
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.imgquemsomos {
+  border-radius: 0px;
+  transition: all 0.5s ease-in;
+}
+
+.imgquemsomos:hover {
+  width: 51%;
+  border-radius: 15px;
+}
+
+.parceiros {
+  background-color: #7dfafa;
+}
+
+.servicos {
+  background-color: #97f7f7;
+}
+
+.bg-footer {
+  background-color: rgb(209, 255, 255);
+}
